@@ -130,6 +130,7 @@ header .wrapper {
     background-color: coral;
     text-align: center;
     transition: all 0.15s;
+    margin-top: 2%;
 }
 
 .btn1:hover {
